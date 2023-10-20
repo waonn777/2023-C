@@ -1,0 +1,22 @@
+学生番号22516021 氏名　東本文殊
+
+#include <stdio.h>
+
+int main(void)
+{
+    int s[7],a,b,c;
+    printf("僕には分からないよ\n");
+    
+    /* メッセージを表示します*/
+    printf("Hello Programming in C World!\n"); /*Helloを表示*/
+    printf("Good-bye Programming in C World!\n"); //Good-byeを表示
+    return 0;
+    
+    a=5;
+    b=3;
+    c=a+b;
+    
+    printf("%d\n",c);
+    return 0;
+    
+}
